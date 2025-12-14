@@ -16,6 +16,7 @@ st.markdown("---")
 services = {
     "해외 주요 서비스": {
         "OpenAI & ChatGPT (오픈에이아이 & 챗지피티)": "https://status.openai.com/",
+        "Claude (클로드)" : "https://status.claude.com/",
         "Cloudflare (클라우드플레어)": "https://www.cloudflarestatus.com/",
         "AWS (아마존 클라우드)": "https://health.aws.amazon.com/health/status",
         "Microsoft 365 (마이크로소프트 365)": "https://status.cloud.microsoft/m365/",
