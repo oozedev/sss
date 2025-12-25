@@ -36,6 +36,7 @@ services = {
     },
     "국내 주요 서비스": {
         "Toss Payments (토스 페이먼츠)": "https://status.tosspayments.com/",
+        "Samsung Members (삼성멤버스 커뮤니티)": "https://r1.community.samsung.com/t5/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/ct-p/kr-community?page=1&tab=recent_topics/",
         "Naver Pay (네이버페이 공지사항)": "https://pay.naver.com/member/notice/",
         "KakaoPay (카카오페이 공지사항)": "https://www.kakaopay.com/news/notice",
         "Daum (다음 고객센터)": "https://cs.daum.net/",
