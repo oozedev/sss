@@ -16,6 +16,8 @@ st.markdown("---")
 services = {
     "해외 주요 서비스": {
         "OpenAI & ChatGPT (오픈에이아이 & 챗지피티)": "https://status.openai.com/",
+        "Gemini (제미나이)" : "https://status.gemini.com/",
+        "Copilot(코파일럿)" : "https://status.cloud.microsoft/m365/",
         "Claude (클로드)" : "https://status.claude.com/",
         "perplexity (퍼플렉시티)" : "https://status.perplexity.com/",
         "Grok (그록)" : "https://status.x.ai/grok-com",
@@ -36,6 +38,7 @@ services = {
         "Zoom (줌)": "https://status.zoom.us",
         "X & Twitter (엑스 & 트위터)": "https://x.com/X",
         "Starlink (스타링크 비공식)": "https://starlinkstatus.space/",
+        "Github (깃허)" : "https://www.githubstatus.com/",
     },
     "국내 주요 서비스": {
         "Toss Payments (토스 페이먼츠)": "https://status.tosspayments.com/",
