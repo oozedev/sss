@@ -38,7 +38,7 @@ services = {
         "Zoom (줌)": "https://status.zoom.us",
         "X & Twitter (엑스 & 트위터)": "https://x.com/X",
         "Starlink (스타링크 비공식)": "https://starlinkstatus.space/",
-        "Github (깃허)" : "https://www.githubstatus.com/",
+        "Github (깃허브)" : "https://www.githubstatus.com/",
     },
     "국내 주요 서비스": {
         "Toss Payments (토스 페이먼츠)": "https://status.tosspayments.com/",
